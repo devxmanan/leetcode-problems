@@ -1,7 +1,7 @@
 # leetcode-problems
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&size=28&pause=1500&color=00BFFF&center=true&vCenter=true&width=800&height=80&lines=From+Problems+to+Solutions;Crafting+Code+Challenges+with+Style;Read+the+Trees,+Solve+the+Arrays" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&size=28&pause=1500&color=00BFFF&center=true&vCenter=true&width=800&height=80&lines=Dev+X+Manan;From+Problems+to+Solutions;Crafting+Code+Challenges+with+Style;Read+the+Trees,+Solve+the+Arrays" alt="Typing SVG" />
 </p>
 
 ## 🌟 Welcome to the Puzzle Playground
